@@ -1,2 +1,3 @@
 # GitHub-experiment
-this repo is for experimental.
+This repo is for experimental.
+Feel free to PR to this repo.
